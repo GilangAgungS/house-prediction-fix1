@@ -4,6 +4,8 @@
 website prediksi harga rumah dengan data yang lama:
 https://house-predict1.herokuapp.com/
 
+file Procfile, requirements.txt, setup.sh dibutuhkan untuk hosting di cloud (seperti heroku)
+
 
 Column Names
 id - Unique ID for each home sold
